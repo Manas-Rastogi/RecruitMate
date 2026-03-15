@@ -66,18 +66,18 @@
 
 ---
 
-## *Technologies Used*
+Technologies Used
 
-- *Backend:* Java (Spring Boot)  
-- *Database:* MySQL / MongoDB  
-- *Authentication:* JWT (JSON Web Tokens)  
-- *File Handling:* Resume upload and storage  
-- *Third-party Integration:* Resume parsing API  
+- Backend: Java (Spring Boot)  
+- Database: MySQL / MongoDB  
+- Authentication: JWT (JSON Web Tokens)  
+- File Handling:  Resume upload and storage  
+- Third-party Integration: Resume parsing API  
 
 ---
 
-## *Getting Started*
+Getting Started
 
 1. Clone the repository:
-```bash
+bash
 git clone https://github.com/Avenger-manas/RecruitMate.git
