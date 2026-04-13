@@ -64,7 +64,7 @@
   - apikey: YOUR_API_KEY_HERE  
 - *Description:* Upload PDF/DOCX resumes, receive extracted JSON data containing education, experience, skills, and contact information.
 
----
+---------------------------------------------------
 
 Technologies Used
 
