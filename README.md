@@ -53,7 +53,7 @@
 - Company Name  
 - PostedBy (Admin)
 
----
+---------------------------------------------------
 
 ## *Third-party Resume Parsing API*
 
