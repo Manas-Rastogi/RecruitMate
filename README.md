@@ -13,7 +13,7 @@
 - *Secure Access:* Role-based access control ensures that only authorized users can perform certain actions.
 
 ---------------------------------------------------
-
+--------
 ## *APIs*
 
 | Method | Endpoint | Description | Access |
