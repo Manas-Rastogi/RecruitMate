@@ -54,7 +54,7 @@
 - PostedBy (Admin)
 
 ---------------------------------------------------
-
+-------
 ## *Third-party Resume Parsing API*
 
 - *Endpoint:* https://api.apilayer.com/resume_parser/upload  
