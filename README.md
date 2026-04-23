@@ -3,7 +3,7 @@
 *RecruitMate* is a backend server for a Recruitment Management System that streamlines the hiring process by connecting applicants with job openings efficiently. It provides APIs for user authentication, profile management, resume processing, job postings, and applications. Admins can manage job openings and view applicant data, while applicants can upload resumes, view job listings, and apply for jobs.
 
 ---------------------------------------------------
-
+------
 ## *Key Features*
 
 - *User Management:* Applicants and Admins can sign up and log in using JWT-based authentication.
