@@ -5,7 +5,7 @@
 ---------------------------------------------------
 -----------------
 ## *Key Features*
-
+-----------------
 - *User Management:* Applicants and Admins can sign up and log in using JWT-based authentication.
 - *Resume Upload & Parsing:* Applicants can upload resumes in PDF or DOCX format. Resumes are processed using a third-party API to extract skills, education, experience, and contact details.
 - *Job Management:* Admins can create job openings and view applicant details.
