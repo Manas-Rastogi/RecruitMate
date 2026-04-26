@@ -31,7 +31,7 @@
 ---------------------------------------------------
 ----------------
 ## *Data Models*
-
+----------------
 *User*  
 - Name, Email, Address  
 - UserType (Applicant/Admin)  
