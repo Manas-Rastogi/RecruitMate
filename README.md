@@ -77,7 +77,7 @@ Technologies Used
 ---------------------------------------------------
 ----------------
 Getting Started
-
+----------------
 1. Clone the repository:
 bash
 git clone https://github.com/Avenger-manas/RecruitMate.git
