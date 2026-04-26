@@ -15,7 +15,7 @@
 ---------------------------------------------------
 ---------
 ## *APIs*
-
+---------
 | Method | Endpoint | Description | Access |
 |--------|----------|------------|--------|
 | POST   | /signup | Create a new user profile | All users |
