@@ -29,7 +29,7 @@
 | GET    | /jobs/apply?job_id={job_id} | Apply to a job | Applicant only |
 
 ---------------------------------------------------
----------
+----------------
 ## *Data Models*
 
 *User*  
