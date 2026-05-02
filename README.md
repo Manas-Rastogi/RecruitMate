@@ -50,6 +50,7 @@
 - Contact Information
 ---------------
 *Job*  
+---------------
 - Title, Description  
 - PostedOn  
 - TotalApplications  
