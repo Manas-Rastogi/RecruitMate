@@ -70,7 +70,7 @@
 ---------------------------------------------------
 
 Technologies Used
-
+-----------------
 - Backend: Java (Spring Boot)  
 - Database: MySQL / MongoDB  
 - Authentication: JWT (JSON Web Tokens)  
