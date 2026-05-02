@@ -41,7 +41,7 @@
 - PasswordHash  
 - Profile Headline  
 - Profile (linked to Applicant details)
-
+----------------
 *Profile (Applicant)*  
 - Resume File Address  
 - Skills  
