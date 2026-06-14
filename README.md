@@ -30,7 +30,7 @@
 | GET    | /admin/applicant/{applicant_id} | Get extracted applicant data | Admin only |
 | GET    | /jobs | List all job openings | All users |
 | GET    | /jobs/apply?job_id={job_id} | Apply to a job | Applicant only |
-
+------------------------
 ---------------------------------------------------
 ---------------------------------------------------
 ## *Data Models*
