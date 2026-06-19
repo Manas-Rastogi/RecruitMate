@@ -80,7 +80,7 @@ Technologies Used
 - Third-party Integration: Resume parsing API  
 
 ---------------------------------------------------
-----------------
+---------------------------------------------------
 Getting Started
 ----------------
 1. Clone the repository:
