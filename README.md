@@ -49,7 +49,7 @@
 - Education  
 - Experience  
 - Contact Information
----------------
+---------------------------------------------------
 *Job*  
 ---------------
 - Title, Description  
