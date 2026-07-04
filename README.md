@@ -74,7 +74,7 @@ User Management:* Applicants and Admins can sign up and log in using JWT-based a
 ---------------------------------------------------
 
 Technologies Used
------------------
+---------------------------------------------------
 - Backend: Java (Spring Boot)  
 - Database: MySQL / MongoDB  
 - Authentication: JWT (JSON Web Tokens)  
