@@ -89,3 +89,4 @@ Getting Started
 bash
 git clone https://github.com/Avenger-manas/RecruitMate.git
 ---------------------------------------------------
+---------------------------------------------------
