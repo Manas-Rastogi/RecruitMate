@@ -63,7 +63,7 @@ User Management:* Applicants and Admins can sign up and log in using JWT-based a
 ---------------------------------------------------
 ---------------------------------------------------
 ## *Third-party Resume Parsing API*
-
+---------------------------------------------------
 - *Endpoint:* https://api.apilayer.com/resume_parser/upload  
 - *Request Type:* POST  
 - *Headers:*  
