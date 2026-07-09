@@ -72,7 +72,7 @@ User Management:* Applicants and Admins can sign up and log in using JWT-based a
 - *Description:* Upload PDF/DOCX resumes, receive extracted JSON data containing education, experience, skills, and contact information.
 
 ---------------------------------------------------
-
+---------------------------------------------------
 Technologies Used
 ---------------------------------------------------
 - Backend: Java (Spring Boot)  
