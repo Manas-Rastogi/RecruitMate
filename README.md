@@ -55,6 +55,7 @@ User Management:* Applicants and Admins can sign up and log in using JWT-based a
 ---------------------------------------------------
 *Job*  
 ---------------------------------------------------
+---------------------------------------------------
 - Title, Description  
 - PostedOn  
 - TotalApplications  
