@@ -84,7 +84,7 @@ Technologies Used
 - Authentication: JWT (JSON Web Tokens)  
 - File Handling:  Resume upload and storage  
 - Third-party Integration: Resume parsing API  
-
+---------------------------------------------------
 ---------------------------------------------------
 ---------------------------------------------------
 Getting Started
