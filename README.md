@@ -18,7 +18,7 @@ User Management:* Applicants and Admins can sign up and log in using JWT-based a
 - *Job Management:* Admins can create job openings and view applicant details.
 ---------------------------------------------------
 - *Job Application:* Applicants can view available jobs and apply for specific positions.
-
+---------------------------------------------------
 - *Secure Access:* Role-based access control ensures that only authorized users can perform certain actions.
 --------------------------------------------------
 ---------------------------------------------------
